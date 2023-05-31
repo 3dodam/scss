@@ -46,3 +46,5 @@ Partials의 파밍명은 _로 시작하며
 
 ## @forward는 파샬이 여러개 있을 때 묶어서 각각의 변수를 사용할 수 있다. style.scss에서는 _index.scss를 호출하여 사용함
 ![image](https://github.com/3dodam/scss/assets/129016953/975b6bde-8f29-45b6-bfe4-bc561bcaef80)
+
+## **(와일드카드)를 붙이면 이름을 생략할 수 있다.
