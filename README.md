@@ -34,3 +34,15 @@ Partials의 파밍명은 _로 시작하며
 
 ![image](https://github.com/3dodam/scss/assets/129016953/3730abb0-53b5-44ee-9c1f-f5b0a98706ce)
 
+## @import --> 변수가 중복될 때는 아래의 것이 적용된다.
+![image](https://github.com/3dodam/scss/assets/129016953/6fca514f-21e2-4082-99c4-f144d8082d71)
+
+
+## @use --> 변수 이름이 같을때 에러발생, @use를 사용할때는 앞에 파일명을 추가해서 파일명.변수명
+![image](https://github.com/3dodam/scss/assets/129016953/08699823-16ae-4ba5-aab2-77e2baa3fb1a)
+
+##  as 뒤에 별명을 붙여서 사용할 수 있다.
+![image](https://github.com/3dodam/scss/assets/129016953/3d284461-4f5f-49b1-b775-d1d84c58d291)
+
+## @forward는 파샬이 여러개 있을 때 묶어서 각각의 변수를 사용할 수 있다. style.scss에서는 _index.scss를 호출하여 사용함
+![image](https://github.com/3dodam/scss/assets/129016953/975b6bde-8f29-45b6-bfe4-bc561bcaef80)
