@@ -48,3 +48,17 @@ Partials의 파밍명은 _로 시작하며
 ![image](https://github.com/3dodam/scss/assets/129016953/975b6bde-8f29-45b6-bfe4-bc561bcaef80)
 
 ## **(와일드카드)를 붙이면 이름을 생략할 수 있다.
+
+## 전역변수와 지역변수
+![image](https://github.com/3dodam/scss/assets/129016953/69f20714-a01b-4839-b27b-b56821d891d0)
+
+## 보간법
+![image](https://github.com/3dodam/scss/assets/129016953/fd33b236-1861-44ef-8682-5755f553118a)
+
+## nesting(네스팅): 부모 루틴 안에서 자식 루틴을 넣어서 짜는 것 (자식을 품음)
+## & = 자신을 감싼 중괄호 밖의 것 / + = 동생이란 뜻
+![image](https://github.com/3dodam/scss/assets/129016953/cd26e8a5-dc56-49a8-a58d-a73f5e9dc6f1)
+![image](https://github.com/3dodam/scss/assets/129016953/a1f50c8e-b113-4f06-a459-2212ea12dc31)
+
+## extend
+![image](https://github.com/3dodam/scss/assets/129016953/48f72451-0d53-4284-99e6-b1c91b76b5cb)
